@@ -1,0 +1,161 @@
+.title2 {
+    width: 462px;
+    height: 62px;
+    left: 207px;
+    top: 477px;
+    font-family: 'Ubuntu';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 27px;
+    line-height: 31px;
+    color: #555555;
+}
+
+
+.flex-container1 {
+    display: flex;
+    margin-top: 207px;
+}
+
+.justify-content-around {
+    justify-content: space-around;
+    background: url(imagens/background.png);
+    height: 730px;
+    left: 0px;
+    top: 829px;
+    padding-top: 109px;
+    display: flex;
+}
+
+h2 {
+    width: 488px;
+    height: 216px;
+    left: 206px;
+    top: 242px;
+    font-family: 'Ubuntu';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 60px;
+    line-height: 69px;
+    color: #FF4081;
+    margin-left: 156px;
+    margin-right: 39px;
+}
+
+h3 {
+    font-family: 'Ubuntu';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 25px;
+    line-height: 29px;
+    text-align: center;
+    color: #FF4081;
+}
+
+.text-align-center {
+    text-align: center;
+
+}
+
+.pink-button {
+    background: #FF4081;
+    border-radius: 62px;
+    font-family: 'Ubuntu';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 23px;
+    text-align: center;
+    color: #FFFFFF;
+    padding: 8px 15px;
+
+}
+
+.button-sabermais {
+    width: 268px;
+    height: 51px;
+    top: 577px;
+    border: 2px solid #FF4081;
+    box-sizing: border-box;
+    border-radius: 62px;
+    font-family: 'Ubuntu';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 27px;
+    line-height: 31px;
+    color: #FF4081;
+    padding: 8px 26px;
+    margin-left: 156px;
+}
+
+.text-margin {
+    margin-bottom: 26px;
+    width: 293px;
+}
+
+.text-margin2 {
+    margin-bottom: 36px;
+    margin-left: 156px;
+
+}
+
+.position {
+    position: relative;
+    right: 97px;
+    bottom: 25px;
+}
+
+h4 {
+    width: 530px;
+    height: 43px;
+    left: 128px;
+    top: 2351px;
+    font-family: 'Ubuntu';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 37px;
+    line-height: 43px;
+    color: #009688;
+    margin-bottom: 56px;
+}
+
+.container {
+    display: flex;
+    text-align: left;
+    justify-content: space-around;
+}
+
+h5 {
+    color: #009688;
+}
+
+h6 {
+    font-style: normal;
+    font-weight: 700;
+    font-size: 37px;
+    line-height: 50px;
+    color: #009688;
+    margin-bottom: 76px;
+}
+
+.textofase3 {
+    display: flex;
+}
+
+.postbuton {
+    
+    font-family: 'Ubuntu';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 25px;
+    line-height: 29px;
+    color: #FF4081;
+    border: 2px solid #FF4081;
+    box-sizing: border-box;
+    border-radius: 62px;
+    text-align: center;
+    padding: 10px 41px;
+    margin-bottom: 55px;
+    display: flex;
+
+}

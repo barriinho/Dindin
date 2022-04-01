@@ -1,0 +1,78 @@
+* {
+    text-decoration: none;
+    font-family: Ubuntu;
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    height: 117px;
+    background: #2E948A;
+    box-shadow: 0px 3px 7px rgba(0, 0, 0, 0.25);
+    align-items: center;
+    justify-content: end;
+    display: flex ;
+}
+
+.logo__dindin {
+    position: absolute;
+    width: 69px;
+    height: 71px;
+    left: 82px;
+    top: 20px;
+}
+
+.textologo {
+    position: absolute;
+    width: 164px;
+    height: 64px;
+    left: 162px;
+    top: 33px;
+    font-family: 'Ubuntu';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 56px;
+    line-height: 64px;
+    color: white;
+}
+
+a {
+    color: white;
+}
+
+section {
+    padding: 130px 100px;
+}
+
+footer {
+    display: flex   ;
+    height: 207px;
+    background: #419488;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    height: 117px;
+}
+
+.botao-professor {
+    left: 70.42%;
+    right: 9.51%;
+    top: 24.15%;
+    bottom: 51.21%;
+    border: 2px solid #FFFFFF;
+    box-sizing: border-box;
+    border-radius: 62px;
+    padding: 14px 41px
+}
+
+.botao-outro-link {
+    left: 70.42%;
+    right: 9.51%;
+    top: 24.15%;
+    bottom: 51.21%;
+    border: 2px solid #FFFFFF;
+    box-sizing: border-box;
+    border-radius: 62px;
+    padding: 14px 41px
+}

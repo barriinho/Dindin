@@ -1,0 +1,54 @@
+h1 {
+    width: 263px;
+    height: 69px;
+    left: 82px;
+    top: 198px;
+    color: #FF4081;
+    font-weight: 700;
+    font-size: 60px;
+    line-height: 69px;
+}
+
+p {
+    width: 317px;
+    height: 23px;
+    left: 82px;
+    top: 267px;
+    font-family: 'Ubuntu';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 23px;
+    color: #555555;
+}
+
+.container-flex {
+    display: flex;
+    margin-bottom: 68px;
+    margin-top: 95px;
+
+}
+
+.flex1 {
+    margin-right: 112px;
+
+}
+
+h2 {
+    font-weight: 700;
+    font-size: 35px;
+    line-height: 40px;
+    text-align: center;
+
+    color: #FF4081;
+}
+
+.text-flex {
+    margin-top: 37px;
+    text-align: left;
+    padding-right: 545px;
+    width: 724px;
+    height: 105px;
+    left: 545px;
+    top: 483px;
+}
